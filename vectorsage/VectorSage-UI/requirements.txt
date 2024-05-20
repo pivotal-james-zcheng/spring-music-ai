@@ -1,9 +1,0 @@
-openai
-gradio
-cfenv
-pyyaml
-psycopg[binary]
-argparse
-typer==0.9.4
-dataclasses-json
-sseclient
